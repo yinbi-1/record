@@ -71,3 +71,11 @@ rustling也更新到迭代器了，争取明天一起学完
 rustling还剩两道
 
 得补一下cow、macros
+
+
+
+## DAY14 2022/11/14
+
+写完了rustling，但感觉还有很多不会，明天开始risc-v
+
+![image-20221114200236233](C:/Users/86147/AppData/Roaming/Typora/typora-user-images/image-20221114200236233.png)
