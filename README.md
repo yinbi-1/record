@@ -79,3 +79,9 @@ rustling还剩两道
 写完了rustling，但感觉还有很多不会，明天开始risc-v
 
 ![image-20221114200236233](C:/Users/86147/AppData/Roaming/Typora/typora-user-images/image-20221114200236233.png)
+
+
+
+## DAY16 2022/11/16
+
+昨天补作业去了，今天听了risc-v的直播，老师讲的很好.
